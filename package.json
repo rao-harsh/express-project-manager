@@ -1,0 +1,21 @@
+{
+  "name": "express-project-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rao-harsh/express-project-manager.git",
+  "author": "harshepic <harsh@epicpaytech.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write \"src/**/*.ts\""
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.7",
+    "@typescript-eslint/eslint-plugin": "^8.20.0",
+    "@typescript-eslint/parser": "^8.20.0",
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-prettier": "^5.2.2",
+    "prettier": "^3.4.2",
+    "typescript": "^5.7.3"
+  }
+}
